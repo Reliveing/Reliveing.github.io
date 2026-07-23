@@ -1,64 +1,20 @@
 ---
 layout: archive
-title: "CV"
+title: "学习与工作经历"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## 工作经历
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **2018.07—至今**　天津大学智能与计算学部，教授、博士生导师
+- **2001—2018.07**　天津大学计算机科学与技术学院，历任副教授、教授、博士生导师
+- **2010.08—2011.02**　新加坡国立大学计算学院，高级访问学者
+- **1999.04—2001.02**　天津合勤科技有限公司，从事网络通信产品开发与设计
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 教育经历
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **2002.09—2005.08**　天津大学计算机科学与技术系，计算机应用专业工学博士
+- **1996.09—1999.03**　天津大学计算机科学与技术系，计算机应用专业工学硕士；研究虚拟现实仿真系统设计与实现、多媒体传输协议设计
