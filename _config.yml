@@ -31,6 +31,7 @@ author:
   employer         : "天津大学智能与计算学部"
   uri              : "https://cse.tju.edu.cn/faculty/lixiaohong/index.html"
   email            : "xiaohongli@tju.edu.cn"
+  team_page        : "https://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12112"
 
   # Academic websites
   academia         : # URL
@@ -51,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Reliveing"
+  github           :
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
